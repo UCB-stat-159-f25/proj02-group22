@@ -10,7 +10,7 @@ Below is a summary of the contributions from each team member.
 
 ### **Ke, Jacky**
     *  Part 4
-    *
+    *  Part 5
     *
 
 ### **Bachtra, Rebecca**
