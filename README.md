@@ -9,3 +9,8 @@ Part 1 performs exploratory data analysis on the number of speeches and word cou
 Part 2 performs text processing using spaCy to extract and compare the most common tokens and lemmas. 
 Part 3 uses a LDA model and BERTopic model to output the top words for each topic and topic distribution for the first speech. 
 Part 4 uses implementation an analysis of word frequency over time using normalization, visializations, and keyword tracking.
+
+https://mybinder.org/v2/gh/UCB-stat-159-f25/proj02-group22/HEAD
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/proj02-group22/HEAD)
